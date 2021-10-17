@@ -174,6 +174,11 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	.tab {
+		margin-left: 20px;
+		margin-bottom: 0;
+	}
+
 /* Container */
 
 	.container {
